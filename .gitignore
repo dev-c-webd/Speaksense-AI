@@ -1,5 +1,4 @@
 # Dependencies
-/node_modules
 /frontend/node_modules
 /backend/node_modules
 
@@ -40,3 +39,6 @@ Thumbs.db
 /backend/uploads/
 *.tmp
 *.temp 
+
+# others
+speaksense_mvp_plan.md
